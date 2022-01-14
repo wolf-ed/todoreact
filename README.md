@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * [Technologies](#Technologies)
 
 ## Introduction
-This is a one page react app to add To-do tasks, with dynamic styled components.
+This is a one page react app to add and delete To-do tasks, with dynamic styled components.
 
 ## Technologies
 
@@ -20,4 +20,5 @@ This is a one page react app to add To-do tasks, with dynamic styled components.
 * HTML and CSS
 * VisualStudio Code
 * Git - GitHub
+* React Css Modules Stylesheet *https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/*
 * Styled-components *https://styled-components.com/*
