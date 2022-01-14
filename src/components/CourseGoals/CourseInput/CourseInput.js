@@ -35,7 +35,7 @@ const CourseInput = props => {
         <label>To-do tasks</label>
         <input type="text" onChange={goalInputChangeHandler} value={enteredValue}/>
       </div>
-      <Button type="submit">Add taks</Button>
+      <Button type="submit">Add tasks</Button>
     </form>
   );
 };
